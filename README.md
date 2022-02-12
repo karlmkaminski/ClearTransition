@@ -1,0 +1,2 @@
+# ClearTransition
+UIKit custom transition with UIViewControllerAnimatedTransitioning
